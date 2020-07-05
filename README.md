@@ -1,1 +1,1 @@
-# sideprojects
+Email Administration Application Using Java Language
